@@ -2,4 +2,4 @@
 
 Web Development
 
-Live site: https://JRUSSEL-SULINAP-COMPRO.github.io/sulinap_russel/ 
+Live site: https://jrussel-sulinap-compro.github.io/sulinap_russel/ 
